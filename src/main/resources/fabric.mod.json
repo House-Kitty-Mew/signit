@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "fabric_lua_converted",
+  "version": "${version}",
+  "name": "SignIt!",
+  "entrypoints": {
+    "main": [
+      "com.example.fabricmod.MyFabricMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "fabric-api": "*",
+    "minecraft": "1.21.1"
+  }
+}

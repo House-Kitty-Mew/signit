@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.2.0",
+  "name": "SignIt! ",
+  "version_number": "1.0.1",
+  "version_type": "release",
+  "authors": ["DawnOfHeros AKA gearsgodmaster"],
+  "description": "Sign an item with rarity!",
+  "license": "ARR",
+  "dependencies": {
+    "required": {
+      "fabric-loader": ">=0.14.0",
+      "fabric-api": "*"
+    },
+    "optional": {},
+    "incompatible": {}
+  },
+  "game_versions": ["1.21.1"],
+  "loaders": ["fabric"],
+  "categories": ["utility"],
+  "icon_path": "assets/fabric_lua_converted/icon.png",
+  "links": {
+    "source": "https://github.com/example/fabric-lua-converted",
+    "issues": "https://github.com/example/fabric-lua-converted/issues",
+    "modrinth": "https://modrinth.com/mod/fabric_lua_converted",
+    "discord": "",
+    "wiki": "",
+    "donate": ""
+  }
+}
